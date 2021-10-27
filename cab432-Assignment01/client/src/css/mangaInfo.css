@@ -1,0 +1,37 @@
+.anime-container {
+    border: #ffdd40, 3px, solid;
+    border-radius: 10px;
+    padding: 5px;
+    width: 95%;
+    text-align: center;
+    margin: 3% auto;
+    color: #f4f4f4;
+
+}
+
+.info-container {
+    display: flex;
+    width: 100%;
+    text-align: left;
+    padding: 15px;
+    justify-content: space-around;
+}
+
+.detail-container {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.detail-container a {
+    color: cornflowerblue;
+}
+
+.trailer {
+    margin: 2%;
+    text-align: center;
+}
+
+.quote-source {
+    padding-bottom: 3%;
+}
+

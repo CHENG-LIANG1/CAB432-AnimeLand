@@ -1,0 +1,62 @@
+
+.quote-container {
+    width: 95%;
+    border: #ffdd40, solid, 4px;
+    border-radius: 10px;
+    color: #f4f4f4;
+    padding: 1%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.quote-container h3 {
+    text-align: center;
+    
+}
+
+.quote-container p {
+    text-align: center;
+}
+
+#quote-source {
+    text-align: right;
+}
+
+
+.manga-container {
+    border: #ffdd40, 3px, solid;
+    border-radius: 10px;
+    padding: 5px;
+    width: 15%;
+    text-align: center;
+    color: #f4f4f4;
+
+}
+
+.manga-container img{
+    width: 90%;
+    height: 75%;
+    cursor: pointer;
+}
+
+.mangas {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.title {
+    color: #ffdd40;
+    margin-left: 2.5%;
+}
+
+
+.news-container h2 {
+    color: #f4f4f4;
+    margin-left: 2.5%;
+
+}
+
+.news-container a {
+    color: cornflowerblue;
+}
